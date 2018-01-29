@@ -3,13 +3,13 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.maven-project</groupId>
-  <artifactId>maven-project</artifactId>
+  <groupId>com.icterguru</groupId>
+  <artifactId>JenkinsTest-ICTERGuru</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>JenkinsTest-ICTERGuru</name>
   <description>Sample Maven project with a working, deployable site.</description>
-  <url>http://www.example.com</url>
+  <url>http://www.icterguru.com</url>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>

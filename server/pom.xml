@@ -4,16 +4,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.example.maven-project</groupId>
-    <artifactId>maven-project</artifactId>
+    <groupId>com.icterguru</groupId>
+    <artifactId>JenkinsTest-ICTERGuru</artifactId>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>server</artifactId>
+  <artifactId>JenkinsTest-ICTERGuru_server</artifactId>
   <packaging>jar</packaging>
-  <name>Server</name>
-  <description>Logic.</description>
+  <name>JenkinsTest-ICTERGuru Server</name>
+  <description>JenkinsTest-ICTERGuru Logic.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
