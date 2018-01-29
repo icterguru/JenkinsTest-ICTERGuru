@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.icterguru</groupId>
-  <artifactId>JenkinsTest-ICTERGuru</artifactId>
+  <groupId>com.example.maven-project</groupId>
+  <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>JenkinsTest-ICTERGuru</name>
